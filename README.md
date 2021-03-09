@@ -25,7 +25,7 @@ If the username and password is incorrect: <b>*Throws away device *
 <br />
 <br />
 
-If the username and password is correct: <b>*dances and navigates you to the next screen*
+If the username and password is correct: <b>*Dances and navigates you to the next screen *
 <br />
 ![UI](https://github.com/LennoxLuis/final_app/blob/master/assets/correct.gif)
 
