@@ -6,7 +6,8 @@
 
 ## Instructions:
 
-<b>This is an interactive login application in compliance for our CC206 app development finals.</b>< />
+<b>This is an interactive login application in compliance for our CC206 app development finals.</b>
+<br/>
 -main.dart is found in the lib folder.
 
 
@@ -17,6 +18,7 @@
 ### password: toor
 
 If the username and password is incorrect: <b>*Throws away device *
+  <br/>
 ![UI](https://github.com/LennoxLuis/final_app/blob/master/assets/wrong.gif)
 <br />
 <br />
