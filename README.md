@@ -3,7 +3,7 @@
 # By:Lennox Luis
 
 ## Instructions:
-<br>
+<br />
 
 ### This is an interactive login application in compliance for our CC206 app development finals.
 -main.dart is found in the lib folder.
@@ -17,11 +17,11 @@
 
 If the username and password is incorrect: <b>*Throws away device and will not navigate you to the next screen*
 ![UI](https://github.com/LennoxLuis/final_app/blob/master/assets/wrong.gif)
-<br>
-<br>
+<br />
+<br />
 
 If the username and password is correct: <b>*dances and navigates you to the next screen*
-<br>
+<br />
 ![UI](https://github.com/LennoxLuis/final_app/blob/master/assets/correct.gif)
 
 
