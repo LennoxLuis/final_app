@@ -5,7 +5,7 @@
 ## Instructions:
 <br>
 
-This is an interactive login application in compliance for our CC206 app development finals.
+### This is an interactive login application in compliance for our CC206 app development finals.
 -main.dart is found in the lib folder.
 
 
