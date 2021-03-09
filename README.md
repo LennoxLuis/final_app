@@ -13,6 +13,8 @@
 
 -This application was tested using a physical device and can be also accessed by an emulator.
 
+-get dependencies in order to use package: 'package:flare_flutter/flare_actor.dart'
+
 
 ### username:cictapps@wvsu.edu.ph
 ### password: toor
